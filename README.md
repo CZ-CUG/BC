@@ -1,1 +1,1 @@
-# BC
+This document provides supplemental materials for the manuscript entitled ``Diffusion-Induced Barrier Coverage of Multi-Layer Robotic Sensing Networks with Adaptive Scheduling Strategy" by Pengyang Fan, Chao Zhai and Hehong Zhang, and it is composed of two parts. The first part discusses the effect of network size (number of agents) on the performance of multi-layer barrier coverage compared to the single-layer barrier coverage, and the second part provides experimental results on the proposed barrier coverage approach in the robotic platform of Robotarium.
